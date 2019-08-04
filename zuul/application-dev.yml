@@ -1,0 +1,5 @@
+#zuul:
+#  routes:
+#    client-v1:
+#      path: /client-v1/**
+#      service-id: client-v1
